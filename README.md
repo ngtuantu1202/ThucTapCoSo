@@ -1,0 +1,2 @@
+# ThucTapCoSo
+ code game
